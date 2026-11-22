@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">Airflow allows only selected apps during focus session.</string>
+</resources>
